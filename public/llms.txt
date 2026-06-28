@@ -1,0 +1,90 @@
+# א.ש פרסום ושיווק — Generative Engine Optimization Map
+
+> A print shop and graphic design studio offering printing services alongside creative graphic design solutions. The business combines technical printing expertise with visual design capabilities, serving clients who need both design creation and physical print production under one roof.
+
+---
+
+## Pages
+
+### בית
+https://-d183163e.zappy5.app
+מחפשים סטודיו שמשלב עיצוב גרפי והפקות דפוס במקום אחד? אנחנו יוצרים שפה חזותית מנצחת ומדפיסים הכול – מחולצות מודפסות ועד פוסטרים אומנותיים. קבעו פגישת היכרות עוד היום.
+
+### שירותים
+https://-d183163e.zappy5.app/services
+עיצוב לוגו, מיתוג עסקי, הדפסת חולצות, שילוט ופוסטרים אומנותיים – כל השירותים תחת קורת גג אחת. בואו להפוך רעיון למוצר מוגמר עם ליווי צמוד והפקה מהירה. היכנסו לגלות את כל האפשרויות.
+
+### אודות
+https://-d183163e.zappy5.app/about
+א.ש פרסום ושיווק הוא סטודיו מוביל לעיצוב גרפי ודפוס עם תשוקה לדיוק ויצירתיות. אנו משלבים מומחיות טכנית עם חזון עיצובי כדי להפיק תוצאות שעושות רושם. הכירו את הצוות שמאחורי כל הדפס אומנותי.
+
+### צור קשר
+https://-d183163e.zappy5.app/contact
+יש לכם רעיון לעיצוב גרפי או פרויקט דפוס? מלאו את הטופס, התקשרו או קפצו לסטודיו – ונתחיל ליצור יחד את החומרים שיכניסו צבע לעסק שלכם. הצוות שלנו מחכה לשמוע ממכם עוד היום.
+
+### תודה על פנייתכם
+https://-d183163e.zappy5.app/thank-you
+א.ש פרסום ושיווק - תודה על פנייתכם
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d183163e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d183163e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d183163e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-d183163e.zappy5.app/contact
+- Endpoint: https://-d183163e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About א.ש פרסום ושיווק
+A print shop and graphic design studio offering printing services alongside creative graphic design solutions. The business combines technical printing expertise with visual design capabilities, serving clients who need both design creation and physical print production under one roof.
+
+## Services/Products
+- הדפסות
+- עיצוב גרפי
+- שירותי דפוס
+
+## Target Audience
+- בעלי עסקים קטנים
+- מתכנני אירועים
+- מוסדות חינוך
+- משטרת ישראל
+- בעלי עסקים
+- חיילים
+
+## Industry
+Print & Graphic Design
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-d183163e.zappy5.app/sitemap.xml
+- Robots: https://-d183163e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-d183163e.zappy5.app/llms-full.txt
