@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://-d183163e.zappy5.app
+https://example.com
 מחפשים סטודיו שמשלב עיצוב גרפי והפקות דפוס במקום אחד? אנחנו יוצרים שפה חזותית מנצחת ומדפיסים הכול – מחולצות מודפסות ועד פוסטרים אומנותיים. קבעו פגישת היכרות עוד היום.
 
 ### שירותים
-https://-d183163e.zappy5.app/services
+https://example.com/services
 עיצוב לוגו, מיתוג עסקי, הדפסת חולצות, שילוט ופוסטרים אומנותיים – כל השירותים תחת קורת גג אחת. בואו להפוך רעיון למוצר מוגמר עם ליווי צמוד והפקה מהירה. היכנסו לגלות את כל האפשרויות.
 
 ### אודות
-https://-d183163e.zappy5.app/about
+https://example.com/about
 א.ש פרסום ושיווק הוא סטודיו מוביל לעיצוב גרפי ודפוס עם תשוקה לדיוק ויצירתיות. אנו משלבים מומחיות טכנית עם חזון עיצובי כדי להפיק תוצאות שעושות רושם. הכירו את הצוות שמאחורי כל הדפס אומנותי.
 
 ### צור קשר
-https://-d183163e.zappy5.app/contact
+https://example.com/contact
 יש לכם רעיון לעיצוב גרפי או פרויקט דפוס? מלאו את הטופס, התקשרו או קפצו לסטודיו – ונתחיל ליצור יחד את החומרים שיכניסו צבע לעסק שלכם. הצוות שלנו מחכה לשמוע ממכם עוד היום.
 
 ### תודה על פנייתכם
-https://-d183163e.zappy5.app/thank-you
+https://example.com/thank-you
 א.ש פרסום ושיווק - תודה על פנייתכם
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d183163e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d183163e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d183163e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-d183163e.zappy5.app/contact
-- Endpoint: https://-d183163e.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -85,6 +85,6 @@ Print & Graphic Design
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-d183163e.zappy5.app/sitemap.xml
-- Robots: https://-d183163e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-d183163e.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
